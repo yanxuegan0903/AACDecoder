@@ -1,6 +1,6 @@
 # AACDecoder
 
-aac 解码Pcm  暂时只支持 ADTS 的数据
+aac 音频数据播放  暂时只支持 ADTS 的数据
 
 只用方法很简单 
 
